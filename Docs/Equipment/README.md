@@ -16,6 +16,11 @@
 ## 장비 착용 부위 (Slot)
 장비를 착용할 수 있는 부위는 GameplayTag로 정의합니다. 이 프로젝트의 모든 GameplayTag는
 SwordmasterGameplayTags에 정의되어 있습니다.
+## 장비 착용 효과
+장비를 착용했을 때, GameplayEffect를 통해 캐릭터 AttributeSet에 정의된 속성들을 변경합니다.
+GameplayEffect는 SetByCaller를 통해 실행시간에 데이터테이블에서 해당 장비의 데이터를 찾아서
+변경합니다.
+
 ## Weapon
 무기(Weapon)는 장비의 일종으로 EquipmentManagerComponent에서 관리합니다. 다만 무기만의
 몇 가지 특별한 속성과 기능이 있습니다.
