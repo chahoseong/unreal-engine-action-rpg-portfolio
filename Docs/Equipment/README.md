@@ -1,6 +1,6 @@
 # Equipment System
 ## Diagram
-![diagram]()
+![diagram](https://github.com/chahoseong/unreal-engine-action-rpg-portfolio/blob/main/Docs/Equipment/Equipment%20System%20Diagram.png?raw=true)
 ## 구성 요소
 ### EquipmentManagerComponent
 장비의 장착과 해제 요청을 처리하고, 현재 착용된 장비들을 관리합니다.
