@@ -1,6 +1,6 @@
 # Character Parts System
 ## Diagram
-![diagram]()
+![diagram](https://github.com/chahoseong/unreal-engine-action-rpg-portfolio/blob/main/Docs/CharacterParts/Character%20Parts%20System.png?raw=true)
 ## 구성 요소
 ### CharacterPartsManagerComponent
 캐릭터 파츠를 변경하는 요청을 받고, 변경된 파츠를 관리합니다.
