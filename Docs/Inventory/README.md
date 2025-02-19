@@ -1,6 +1,6 @@
 # Inventory
 ## Diagram
-![diagram]()
+![diagram](https://github.com/chahoseong/unreal-engine-action-rpg-portfolio/blob/main/Docs/Inventory/Inventory%20System.png?raw=true)
 ## 구성 요소
 ### InventoryManagerComponent
 현재 획득 중인 아이템을 카테고리별로 관리합니다.
