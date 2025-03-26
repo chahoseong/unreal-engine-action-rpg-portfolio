@@ -4,10 +4,10 @@
 ## 개요
 **Gameplay Ability System**을 활용한 Action RPG의 몇 가지 핵심 기능을 구현한 포트폴리오
 ## 주요 기능
-- 캐릭터 커스터마이징
-- 캐릭터 장비
-- 인벤토리
-- 전투
+- [캐릭터 커스터마이징](https://github.com/chahoseong/unreal-engine-action-rpg-portfolio/blob/main/Docs/CharacterParts/README.md)
+- [캐릭터 장비](https://github.com/chahoseong/unreal-engine-action-rpg-portfolio/blob/main/Docs/Equipment/README.md)
+- [인벤토리](https://github.com/chahoseong/unreal-engine-action-rpg-portfolio/blob/main/Docs/Inventory/README.md)
+- [전투](https://github.com/chahoseong/unreal-engine-action-rpg-portfolio/blob/main/Docs/Combat/README.md)
   - 공격 (Light Attack, Heavy Attack, Combo Attack)
   - 방어 및 패링(Parrying)
   - 회피 (Rolling)
